@@ -151,7 +151,8 @@ genai.configure(api_key="YOUR_API_KEY")
 
 | Upload Resume | Gemini AI Output |
 |---------------|------------------|
-| ![upload](screenshots/upload.png) | ![result](screenshots/result.png) |
+| ![upload](screenshots/upload1.png) | ![result](screenshots/result.png) |
+| ![upload](screenshots/upload2.png) | 
 
 ---
 
