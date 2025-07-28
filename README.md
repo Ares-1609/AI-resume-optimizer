@@ -17,7 +17,7 @@
 This project allows users to:
 - 📤 Upload their resume (PDF)
 - 🔍 Extract text using OCR
-- 🤖 Analyze with **Google Gemini Pro**
+- 🤖 Analyze with **Google Gemini**
 - 📝 Receive a **score** and **3 detailed suggestions**
 - 🎨 See the output in a **clean UI** with **dark mode**, **score bar**, and **PDF download**
 
