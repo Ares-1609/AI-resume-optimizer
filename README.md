@@ -1,6 +1,6 @@
 <h1 align="center">🚀 AI Resume Optimizer</h1>
 <p align="center">
-  An intelligent resume analyzer using <strong>Google Gemini Pro</strong> and <strong>Flask + React</strong>
+  An intelligent resume analyzer using <strong>Google Gemini 1.5 flashj</strong> and <strong>Flask + React</strong>
 </p>
 
 <p align="center">
