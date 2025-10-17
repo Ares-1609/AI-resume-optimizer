@@ -39,7 +39,7 @@ resume-optimizer-ai/
 
 - ✅ Upload and analyze any PDF resume  
 - 🔍 Tesseract OCR for robust text extraction  
-- 🧠 Google Gemini Pro for smart suggestions  
+- 🧠 Google Gemini for smart suggestions  
 - 🌗 Dark/light theme toggle  
 - 📈 Score bar with visual feedback  
 - 🧾 Wrapped output and preformatted content  
